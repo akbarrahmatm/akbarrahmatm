@@ -10,7 +10,7 @@
 <a href="https://twitter.com/akbarrahmatm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akbarrahmatm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akbar-rahmat-mulyatama-b03894219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akbar-rahmat-mulyatama-b03894219" height="30" width="40" /></a>
 <a href="https://instagram.com/akbarrahmatm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akbarrahmatm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucuy1oexud_ifsjmivid5nxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucuy1oexud_ifsjmivid5nxa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/akbar rahmat mulyatama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akbar rahmat mulyatama" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
