@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarrahmatm&label=Profile%20views&color=0e75b6&style=flat" alt="akbarrahmatm" /> </p>
 
-- 🌱 I’m currently learning **Android mobile dev & JavaScript web dev**
+- 🌱 I’m currently learning **MERN Stack (MongoDB, ExpressJS, React.JS, & Node.JS)**
 
 - 👨‍💻 All of my projects are available at [https://akbarrahmatm.my.id/project](https://akbarrahmatm.my.id/project)
 
