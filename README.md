@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://akbarrahmatm.my.id/blog](https://akbarrahmatm.my.id/blog)
 
-- 📫 How to reach me **akbarrahmatmulyatama@gmail.com**
+- 📫 How to reach me **akbar@akbarrahmatm.my.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
