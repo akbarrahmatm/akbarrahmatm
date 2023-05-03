@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akbarrahmatm.my.id/project](https://akbarrahmatm.my.id/project)
 
-- 📝 I regularly write articles on [https://akbarrahmatm.my.id/blog](https://akbarrahmatm.my.id/blog)
+- 📝 I regularly write articles on [https://akbarrahmatm.my.id/post](https://akbarrahmatm.my.id/post)
 
 - 📫 How to reach me **akbar@akbarrahmatm.my.id**
 
