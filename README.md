@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/akbarrahmatm" target="blank"><img src="https://img.shields.io/twitter/follow/akbarrahmatm?logo=twitter&style=for-the-badge" alt="akbarrahmatm" /></a> </p>
 
-- 🔭 I’m currently working on [Airseat](https://github.com/orgs/FSWAND-KM-6-C2-Final-Project/repositories) (Binar Academy x MSIB Batch 6 Final Project) as Lead Backend Developer & Project Manager for FSW
-
 - 🌱 I’m currently learning **Typescript, CI/CD & Google Cloud Platform**
 
 - 👨‍💻 All of my projects are available at [https://akbarrahmatm.my.id/project](https://akbarrahmatm.my.id/project)
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me **akbarrahmatmulyatama@gmail.com**
 
-- 📄 Know about my experiences **[My Portfolio](https://drive.google.com/file/d/1B2qKgG-V7L7Dixr94rZcA8kME_yESENO/view)**
+- 📄 Know about my experiences **[My Portfolio](https://drive.google.com/file/d/1FPi94LjHS6pG1KkWBjbevcdraoj6Ky2i/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
