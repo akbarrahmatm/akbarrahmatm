@@ -10,16 +10,6 @@
 
 <br /><br />
 
-<a href="https://akbarrahmatm.my.id/">
-  <img
-    src="https://akbarrahmatm.my.id/profile/tech-stack.svg?v=5"
-    width="100%"
-    alt="Akbar Rahmat Mulyatama: Technology Stack &amp; Capabilities"
-  />
-</a>
-
-<br /><br />
-
 <p align="center">
   <a href="https://akbarrahmatm.my.id/"><img src="https://akbarrahmatm.my.id/profile/link-website.svg?v=5" width="24%" alt="Personal Website" /></a>
   <a href="https://github.com/akbarrahmatm"><img src="https://akbarrahmatm.my.id/profile/link-github.svg?v=5" width="24%" alt="GitHub Profile" /></a>
